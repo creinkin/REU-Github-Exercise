@@ -1,12 +1,10 @@
 # Software Engineering Tools Sign-In Sheet
 
 Table 1:
-1. name
-2. name
-3. name
-4. name
-5. name
-6. name
+1. Kimberly
+2. Caitlin
+3. Caroline
+4. Grace
 
 
 Table 2:
