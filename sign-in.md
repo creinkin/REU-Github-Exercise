@@ -3,18 +3,18 @@
 Table 1:
 1. name
 2. name
-3. Greg Serapio-García
+3. name
 4. name
 5. name
 6. name
 
 
 Table 2:
-1. name
-2. name
-3. name
-4. name
-5. name
+1. Mitch
+2. Carl
+3. Greg
+4. Peter
+5. Bryan
 6. name
 
 Table 3:
